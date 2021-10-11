@@ -1,1 +1,1 @@
-# te6
+#Soovin Choi_ Technical Exercise 6
